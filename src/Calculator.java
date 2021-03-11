@@ -27,7 +27,6 @@ class Сalculations {
         } else
             System.out.println("Ошибка ввода");
         return 0;
-
     }
 
     public static char operation() {
